@@ -41,7 +41,7 @@ public class Exe122 {
         System.out.println("Altura média das mulheres:"+media);
         System.out.println("Quantidade de homens: "+qt_homens);
         System.out.println("Quantidade de mulheres: "+qt_mulheres);
-        
+       
     }
     
 }

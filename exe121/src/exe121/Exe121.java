@@ -16,6 +16,10 @@ public class Exe121 {
     }
     media= soma/count;
     System.out.println("A média das idade é:"+media);
+    dddddddddddddddd
+    ddddddddddddddddddddddddddd
+    ddddddddddddddddddddddddddddd
+    dddddddddddddddddddddddddddddd
         
     } 
 }
