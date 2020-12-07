@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/12/06 15:09:35.700,=C:\Users\Danie\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/06 15:09:56.339,C:\Projects\Memory-Leak\uFrmPrincipal.dfm=C:\Users\Danie\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/12/06 15:09:56.339,C:\Projects\Memory-Leak\uFrmPrincipal.pas=C:\Users\Danie\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/06 15:11:50.268,=C:\Users\Danie\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/06 15:11:54.190,=C:\Users\Danie\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/12/06 15:11:57.781,=C:\Users\Danie\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/12/06 15:12:33.569,C:\Projects\Memory-Leak\uSistema.pas=C:\Users\Danie\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/06 15:12:56.778,C:\Projects\Memory-Leak\uVendas.pas=C:\Users\Danie\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/12/06 15:13:19.279,C:\Projects\Memory-Leak\uVenda.pas=C:\Projects\Memory-Leak\uVendas.pas</Transaction>
+    <Transaction>2020/12/06 15:13:44.732,C:\Projects\Memory-Leak\uVendaItem.pas=C:\Users\Danie\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/12/06 15:14:51.607,C:\Projects\Memory-Leak\MemoryLeakDelphi.dproj=C:\Users\Danie\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
